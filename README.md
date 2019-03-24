@@ -6,4 +6,4 @@ This project complements https://github.com/john-itcsolutions/ChubbaMorris, whic
 to this project's Front End or GUI.  Further information is available on that project's README.md.
 
 As mentioned there, the methods of connecting this package to the databse/blockchain/Backend are unknown as yet.  Also 
-unknown is how to deploy the C++ blockchain/databse to a sidechain.
+unknown is how to deploy the C++ blockchain/database to a sidechain.
