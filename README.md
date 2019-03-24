@@ -7,3 +7,5 @@ to this project's Front End or GUI.  Further information is available on that pr
 
 As mentioned there, the methods of connecting this package to the databse/blockchain/Backend are unknown as yet.  Also 
 unknown is how to deploy the C++ blockchain/database to a sidechain.
+
+This version is so far aimed at getting an Android DApp working as the first step.
