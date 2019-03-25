@@ -9,3 +9,5 @@ As mentioned there, the methods of connecting this package to the databse/blockc
 unknown is how to deploy the C++ blockchain/database to a sidechain.
 
 This version is so far aimed at getting an Android DApp working, writing and reading data to a sidechain,  as the first step.
+
+The Year Ahead for Trinity Browser:  https://news.elastos.org/spotlight-series-1-elastos-runtime-aka-trinity-aka-elastos-browser/
